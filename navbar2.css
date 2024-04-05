@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    background-color: yellow;
+    justify-content: space-around;
+    position: fixed;
+    width: 100%;
+    top: 0;
+
+}
+.navbar ul{
+    display: flex;
+    gap: 40px;
+    list-style-type: none;
+}

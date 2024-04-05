@@ -1,0 +1,14 @@
+.parent{
+    background-color: red;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+}
+
+.ch{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: 2px solid;
+}

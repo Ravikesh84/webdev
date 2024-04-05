@@ -1,0 +1,36 @@
+body{ background-color: pink;
+
+}
+h1{
+    background: #26ac72;
+    color: rgb(11, 11, 68);
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: overline;
+    text-decoration-style: dashed;
+
+}
+.king{
+    text-decoration: underline;
+    text-decoration-style:wavy ;
+    text-decoration-color: rgb(72, 41, 41);
+    text-shadow: -4px -4px 4px white;
+    
+    }
+
+.bigboss{
+    background-color: rgb(24, 178, 183);
+    text-decoration: line-through; 
+    text-decoration-style:double ;
+
+}
+.para{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    line-height: 50px;
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+    
+}
